@@ -631,6 +631,11 @@ collections:
       collection: 508783
       name: Movies
       tpdb_id: 160208
+  Grindhouse Collection:
+    template:
+      tmdb_list: 8243468
+      name: Movies
+      tpdb_id: 5820
   Guardians of the Galaxy Collection:
     template:
       collection: 284433
