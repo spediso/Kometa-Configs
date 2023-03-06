@@ -1,7 +1,6 @@
 ######################################################
 #                Chart Collections                   #
 ######################################################
-#test
 templates:
   Director:
     sort_title: "!A <<collection_name>>"
