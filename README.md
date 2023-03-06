@@ -12,7 +12,7 @@ To use these configuration files, make sure to update the `plex` and `tmdb` sect
 
 To use these configuration files with Plex Meta Manager, run the following command:
 
-```plex_meta_manager.py --config path/to/Movie_posters.yml plex_meta_manager.py --config path/to/Movie_collections.yml
+```plex_meta_manager.py --config path/to/Movie_posters.yml plex_meta_manager.py --config path/to/Movie_collections.yml```
 
 This will update your Plex library with the metadata specified in the configuration files.
 
