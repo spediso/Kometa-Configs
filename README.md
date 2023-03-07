@@ -14,7 +14,7 @@ To use these configuration files, make sure to update the `plex` and `tmdb` sect
 
 Read the [Plex Meta Manager](https://github.com/meisnate12/Plex-Meta-Manager) docs.
 
-This will update your Plex library with the metadata specified in the configuration files.
+Good luck.
 
 ## Contributing
 
