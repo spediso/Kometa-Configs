@@ -1596,6 +1596,12 @@ collections:
       collection: 107674
       name: Movies
       tpdb_id: 51483
+  The Purge Collection:
+    sort_title: Purge Collection
+    template:
+      collection: 256322
+      name: Movies
+      tpdb_id: 165923
   The Rescuers Collection:
     sort_title: Rescuers Collection
     template:
