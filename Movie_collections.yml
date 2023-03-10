@@ -1146,6 +1146,7 @@ collections:
     template:
       collection: 4246
       name: Movies
+      tpdb_id: 66937
   Scream Collection:
     template:
       collection: 2602
