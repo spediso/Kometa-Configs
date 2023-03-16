@@ -981,7 +981,7 @@ collections:
       tpdb_id: 72881
   Neighbors Collection:
     template:
-      collection: 400700
+      collection: 195589
       name: Movies
       tpdb_id: 92862
   Night at the Museum Collection:
