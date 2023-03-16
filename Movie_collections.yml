@@ -1674,6 +1674,7 @@ collections:
     template:
       collection: 33514
       name: Movies
+      tpdb_id: 70115
   The Vampire Chronicles Collection:
     sort_title: Vampire Chronicles Collection
     template:
