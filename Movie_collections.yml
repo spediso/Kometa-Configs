@@ -748,6 +748,11 @@ collections:
       collection: 131292
       name: Movies
       tpdb_id: 4817
+  Iron Sky Collection:
+    template:
+      collection: 312977
+      name: Movies
+      tpdb_id: 163869
   It Collection:
     template:
       collection: 477962
