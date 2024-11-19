@@ -1851,36 +1851,12 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/46807/view
   The Living Daylights:
     url_poster: https://theposterdb.com/api/assets/134685/view
-  'The Lord of the Rings: The Fellowship of the Ring Theatrical Edition':
-    title: 'The Lord of the Rings: The Fellowship of the Ring'
-    year: 2001
-    edition_filter: Theatrical
+  'The Lord of the Rings: The Fellowship of the Ring':
     url_poster: https://theposterdb.com/api/assets/191454/view
-  'The Lord of the Rings: The Fellowship of the Ring Extended Edition':
-    title: 'The Lord of the Rings: The Fellowship of the Ring'
-    year: 2001
-    edition_filter: Extended
-    url_poster: https://theposterdb.com/api/assets/191472/view
-  'The Lord of the Rings: The Return of the King Theatrical Edition':
-    title: 'The Lord of the Rings: The Return of the King'
-    year: 2003
-    edition_filter: Theatrical
+  'The Lord of the Rings: The Return of the King':
     url_poster: https://theposterdb.com/api/assets/191456/view
-  'The Lord of the Rings: The Return of the King Extended Edition':
-    title: 'The Lord of the Rings: The Return of the King'
-    year: 2003
-    edition_filter: Extended
-    url_poster: https://theposterdb.com/api/assets/191474/view
-  'The Lord of the Rings: The Two Towers Theatrical Edition':
-    title: 'The Lord of the Rings: The Two Towers'
-    year: 2002
-    edition_filter: Theatrical
+  'The Lord of the Rings: The Two Towers':
     url_poster: https://theposterdb.com/api/assets/191455/view
-  'The Lord of the Rings: The Two Towers Extended Edition':
-    title: 'The Lord of the Rings: The Two Towers'
-    year: 2002
-    edition_filter: Extended
-    url_poster: https://theposterdb.com/api/assets/191473/view
   'The Lost World: Jurassic Park':
     url_poster: https://theposterdb.com/api/assets/158970/view
   The Man from Earth:
