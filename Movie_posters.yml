@@ -1737,36 +1737,12 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/950/view
   The Hitman's Bodyguard:
     url_poster: https://theposterdb.com/api/assets/160630/view
-  'The Hobbit: An Unexpected Journey Theatrical Edition':
-    title: 'The Hobbit: An Unexpected Journey'
-    year: 2012
-    edition_filter: Theatrical
-    url_poster: https://theposterdb.com/api/assets/191466/view
-  'The Hobbit: An Unexpected Journey Extended Edition':
-    title: 'The Hobbit: An Unexpected Journey'
-    year: 2012
-    edition_filter: Extended
-    url_poster: https://theposterdb.com/api/assets/191484/view
-  'The Hobbit: The Battle of the Five Armies Theatrical Edition':
-    title: 'The Hobbit: The Battle of the Five Armies'
-    year: 2014
-    edition_filter: Theatrical
-    url_poster: https://theposterdb.com/api/assets/191459/view
-  'The Hobbit: The Battle of the Five Armies Extended Edition':
-    title: 'The Hobbit: The Battle of the Five Armies'
-    year: 2014
-    edition_filter: Extended
-    url_poster: https://theposterdb.com/api/assets/191486/view
-  'The Hobbit: The Desolation of Smaug Theatrical Edition':
-    title: 'The Hobbit: The Desolation of Smaug'
-    year: 2013
-    edition_filter: Theatrical
-    url_poster: https://theposterdb.com/api/assets/191458/view
-  'The Hobbit: The Desolation of Smaug Extended Edition':
-    title: 'The Hobbit: The Desolation of Smaug'
-    year: 2013
-    edition_filter: Extended
-    url_poster: https://theposterdb.com/api/assets/191485/view
+  49051: # The Hobbit: An Unexpected Journey (2012) Poster by willtong93 on MediUX. https://mediux.pro/sets/26395
+    url_poster: https://api.mediux.pro/assets/926a6170-1089-4cee-8260-0155b4cdc777
+  57158: # The Hobbit: The Desolation of Smaug (2013) Poster by willtong93 on MediUX. https://mediux.pro/sets/26395
+    url_poster: https://api.mediux.pro/assets/c8edb4fd-7e4a-4cba-b599-545994d106e6
+  122917: # The Hobbit: The Battle of the Five Armies (2014) Poster by willtong93 on MediUX. https://mediux.pro/sets/26395
+    url_poster: https://api.mediux.pro/assets/6ce75c32-2cec-4109-ae4f-0fa3e79f1b3b
   The Hunchback of Notre Dame:
     url_poster: https://theposterdb.com/api/assets/78826/view
   The Hunchback of Notre Dame II:
@@ -1859,12 +1835,12 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/46807/view
   The Living Daylights:
     url_poster: https://theposterdb.com/api/assets/134685/view
-  'The Lord of the Rings: The Fellowship of the Ring':
-    url_poster: https://theposterdb.com/api/assets/191454/view
-  'The Lord of the Rings: The Return of the King':
-    url_poster: https://theposterdb.com/api/assets/191456/view
-  'The Lord of the Rings: The Two Towers':
-    url_poster: https://theposterdb.com/api/assets/191455/view
+  120: # The Lord of the Rings: The Fellowship of the Ring (2001) Poster by willtong93 on MediUX. https://mediux.pro/sets/26396
+    url_poster: https://api.mediux.pro/assets/832efffa-19e1-4ae4-8f0a-be6894acef01
+  121: # The Lord of the Rings: The Two Towers (2002) Poster by willtong93 on MediUX. https://mediux.pro/sets/26396
+    url_poster: https://api.mediux.pro/assets/235544ef-0cf5-4dbe-b26b-e8e186c6c2b8
+  122: # The Lord of the Rings: The Return of the King (2003) Poster by willtong93 on MediUX. https://mediux.pro/sets/26396
+    url_poster: https://api.mediux.pro/assets/ac00c8a7-c908-4efd-afcd-8b3c020507ce
   'The Lost World: Jurassic Park':
     url_poster: https://theposterdb.com/api/assets/158970/view
   The Man from Earth:
