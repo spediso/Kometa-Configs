@@ -2,6 +2,12 @@
 #                  Movie Metadata                    #
 ######################################################
 metadata:
+  '1984':
+    name: '1984'
+    url_poster: https://theposterdb.com/api/assets/97359/view
+  '1917':
+    name: '1917'
+    url_poster: https://theposterdb.com/api/assets/48473/view
   Black Adam:
     url_poster: https://theposterdb.com/api/assets/290218/view
   10 Cloverfield Lane:
@@ -47,7 +53,7 @@ metadata:
   '2001: A Space Odyssey':
     url_poster: https://theposterdb.com/api/assets/63118/view
   '2010: The Year We Make Contact':
-    url_poster: https://theposterdb.com/api/assets/21637/view
+    url_poster: https://theposterdb.com/api/assets/463823/view
   '2036: Nexus Dawn':
     url_poster: https://theposterdb.com/api/assets/110969/view
   '2048: Nowhere to Run':
