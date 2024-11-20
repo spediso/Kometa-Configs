@@ -475,8 +475,14 @@ metadata:
   Daddy's Home 2:
     url_poster: https://theposterdb.com/api/assets/14101/view
   Dawn of the Dead:
+    match:
+      title: Dawn of the Dead
+      year: 1978
     url_poster: https://theposterdb.com/api/assets/60373/view
   924:
+    match:
+      title: Dawn of the Dead
+      year: 2004
     url_poster: https://theposterdb.com/api/assets/62063/view
   Dawn of the Planet of the Apes:
     url_poster: https://theposterdb.com/api/assets/340/view
