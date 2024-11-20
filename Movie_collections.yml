@@ -1457,6 +1457,7 @@ collections:
       collection: 121938
       name: Movies
     url_poster: https://api.mediux.pro/assets/5296fc91-6595-46c4-990e-42aff89d109a
+    url_background: https://api.mediux.pro/assets/3690eef3-481f-4150-ba31-fd0357ff54ce
   The Hunchback of Notre Dame Collection:
     sort_title: Hunchback of Notre Dame Collection
     template:
@@ -1534,6 +1535,7 @@ collections:
       collection: 119
       name: Movies
     url_poster: https://api.mediux.pro/assets/f29dfa50-86b3-4faf-a882-67a43dbd3e17
+    url_background: https://api.mediux.pro/assets/78c32ab2-4b6c-4255-a6a0-87527f999538
   The Man from Earth Collection:
     sort_title: Man from Earth Collection
     template:
