@@ -2,20 +2,20 @@
 #                Chart Collections                   #
 ######################################################
 templates:
-  Director:
-    sort_title: "!A <<collection_name>>"
-    tmdb_director_details: <<tmdb>>
-    collection_order: release
-    collection_mode: hide
-    schedule: weekly(sunday)
-  Studio:
-    sort_title: "!B <<collection_name>>"
-    collection_mode: hide
-    schedule: daily
-  Special Genre:
-    sort_title: "!C <<collection_name>>"
-    collection_order: alpha
-    collection_mode: hide
+  # Director:
+  #   sort_title: "!A <<collection_name>>"
+  #   tmdb_director_details: <<tmdb>>
+  #   collection_order: release
+  #   collection_mode: hide
+  #   schedule: weekly(sunday)
+  # Studio:
+  #   sort_title: "!B <<collection_name>>"
+  #   collection_mode: hide
+  #   schedule: daily
+  # Special Genre:
+  #   sort_title: "!C <<collection_name>>"
+  #   collection_order: alpha
+  #   collection_mode: hide
   Movies:
     optional:
       - collection
@@ -31,16 +31,16 @@ templates:
     sort_title: <<collection_name>>
     collection_order: release
     collection_mode: hide
-  Chart:
-    sort_title: +1_<<num>><<collection_name>>
-    sync_mode: sync
-    smart_label: random
-  Best of:
-    trakt_list: https://trakt.tv/users/lish408/lists/rotten-tomatoes-best-of-<<year>>
-    sort_title: +1_Best of <<year>>
-    sync_mode: sync
-    summary: Rotten Tomatoes Best Movies of <<year>>
-    smart_label: audience_rating.desc
+  # Chart:
+  #   sort_title: +1_<<num>><<collection_name>>
+  #   sync_mode: sync
+  #   smart_label: random
+  # Best of:
+  #   trakt_list: https://trakt.tv/users/lish408/lists/rotten-tomatoes-best-of-<<year>>
+  #   sort_title: +1_Best of <<year>>
+  #   sync_mode: sync
+  #   summary: Rotten Tomatoes Best Movies of <<year>>
+  #   smart_label: audience_rating.desc
 collections:
   Plex Popular:
     template: { name: Chart, num: 1 }
@@ -71,10 +71,10 @@ collections:
     imdb_list: https://www.imdb.com/search/title/?groups=top_250&count=250/
     tmdb_top_rated: 250
     summary: Top Rated Movies across the internet
-  Oscars:
-    template: { name: Chart, num: 5 }
-    imdb_list: https://www.imdb.com/search/title/?title_type=feature,documentary&groups=oscar_winner
-    summary: Oscar Winning Movies
+  # Oscars:
+  #   template: { name: Chart, num: 5 }
+  #   imdb_list: https://www.imdb.com/search/title/?title_type=feature,documentary&groups=oscar_winner
+  #   summary: Oscar Winning Movies
   #Best of 2014:
     #template: { name: Best of, year: 2014 }
   #Best of 2015:
