@@ -2,20 +2,20 @@
 #                Chart Collections                   #
 ######################################################
 templates:
-  # Director:
-  #   sort_title: "!A <<collection_name>>"
-  #   tmdb_director_details: <<tmdb>>
-  #   collection_order: release
-  #   collection_mode: hide
-  #   schedule: weekly(sunday)
-  # Studio:
-  #   sort_title: "!B <<collection_name>>"
-  #   collection_mode: hide
-  #   schedule: daily
-  # Special Genre:
-  #   sort_title: "!C <<collection_name>>"
-  #   collection_order: alpha
-  #   collection_mode: hide
+  Director:
+    sort_title: "!A <<collection_name>>"
+    tmdb_director_details: <<tmdb>>
+    collection_order: release
+    collection_mode: hide
+    schedule: weekly(sunday)
+  Studio:
+    sort_title: "!B <<collection_name>>"
+    collection_mode: hide
+    schedule: daily
+  Special Genre:
+    sort_title: "!C <<collection_name>>"
+    collection_order: alpha
+    collection_mode: hide
   Movies:
     optional:
       - collection
@@ -31,10 +31,10 @@ templates:
     sort_title: <<collection_name>>
     collection_order: release
     collection_mode: hide
-  # Chart:
-  #   sort_title: +1_<<num>><<collection_name>>
-  #   sync_mode: sync
-  #   smart_label: random
+  Chart:
+    sort_title: +1_<<num>><<collection_name>>
+    sync_mode: sync
+    smart_label: random
   # Best of:
   #   trakt_list: https://trakt.tv/users/lish408/lists/rotten-tomatoes-best-of-<<year>>
   #   sort_title: +1_Best of <<year>>
@@ -114,23 +114,23 @@ collections:
       collection: 125570
       name: Movies
       tpdb_id: 5575
-  47 Ronin Collection:
-    template:
-      collection: 732461
-      name: Movies
-      tpdb_id: 305686
+  # 47 Ronin Collection:
+  #   template:
+  #     collection: 732461
+  #     name: Movies
+  #     tpdb_id: 305686
   A Christmas Story Collection:
     sort_title: Christmas Story Collection
     template:
       collection: 201873
       name: Movies
       tpdb_id: 288979
-  A Nightmare on Elm Street Collection:
-    sort_title: Nightmare on Elm Street Collection
-    template:
-      collection: 8581
-      name: Movies
-      tmdb_movie: 23437
+  # A Nightmare on Elm Street Collection:
+  #   sort_title: Nightmare on Elm Street Collection
+  #   template:
+  #     collection: 8581
+  #     name: Movies
+  #     tmdb_movie: 23437
   A Quiet Place Collection:
     sort_title: Quiet Place Collection
     template:
@@ -147,12 +147,12 @@ collections:
       collection: 3167
       name: Movies
       tpdb_id: 6612
-  Addams Family Collection:
-    template:
-      collection: 11716
-      name: Movies
-      tmdb_movie: 639721,481084
-      tpdb_id: 53152
+  # Addams Family Collection:
+  #   template:
+  #     collection: 11716
+  #     name: Movies
+  #     tmdb_movie: 639721,481084
+  #     tpdb_id: 53152
   Airplane Collection:
     template:
       collection: 91663
@@ -278,17 +278,17 @@ collections:
       collection: 87250
       name: Movies
       tpdb_id: 46873
-  Beauty and the Beast Collection:
-    template:
-      collection: 153010
-      name: Movies
-      tmdb_movie: 321612
-      tpdb_id: 44913
-  Beverly Hills Cop Collection:
-    template:
-      collection: 85861
-      name: Movies
-      tpdb_id: 45076
+  # Beauty and the Beast Collection:
+  #   template:
+  #     collection: 153010
+  #     name: Movies
+  #     tmdb_movie: 321612
+  #     tpdb_id: 44913
+  # Beverly Hills Cop Collection:
+  #   template:
+  #     collection: 85861
+  #     name: Movies
+  #     tpdb_id: 45076
   Bill & Ted's Most Excellent Collection:
     template:
       collection: 91746
@@ -335,11 +335,11 @@ collections:
       collection: 131295
       name: Movies
       tpdb_id: 4814
-  Carlito's Way Collection:
-    template:
-      collection: 625861
-      name: Movies
-      tpdb_id: 211793
+  # Carlito's Way Collection:
+  #   template:
+  #     collection: 625861
+  #     name: Movies
+  #     tpdb_id: 211793
   Cars Collection:
     template:
       collection: 87118
@@ -361,11 +361,11 @@ collections:
       name: Movies
       tmdb_movie: 150689
       tpdb_id: 44918
-  City Slickers Collection:
-    template:
-      collection: 150156
-      name: Movies
-      tpdb_id: 95282
+  # City Slickers Collection:
+  #   template:
+  #     collection: 150156
+  #     name: Movies
+  #     tpdb_id: 95282
   Clash of the Titans Collection:
     template:
       collection: 86780
@@ -417,11 +417,11 @@ collections:
       collection: 9332
       name: Movies
       tpdb_id: 908
-  Crouching Tiger, Hidden Dragon Collection:
-    template:
-      collection: 290973
-      name: Movies
-      tpdb_id: 37896
+  # Crouching Tiger, Hidden Dragon Collection:
+  #   template:
+  #     collection: 290973
+  #     name: Movies
+  #     tpdb_id: 37896
   Cube Collection:
     template:
       collection: 432
@@ -432,11 +432,11 @@ collections:
       collection: 473971
       name: Movies
       tpdb_id: 14099
-  Darko Collection:
-    template:
-      collection: 178106
-      name: Movies
-      tpdb_id: 287623
+  # Darko Collection:
+  #   template:
+  #     collection: 178106
+  #     name: Movies
+  #     tpdb_id: 287623
   Dead Snow Collection:
     template:
       collection: 286038
@@ -447,22 +447,22 @@ collections:
       collection: 448150
       name: Movies
       tpdb_id: 148779
-  Despicable Me Collection:
-    template:
-      collection: 86066
-      name: Movies
-      tpdb_id: 22035
+  # Despicable Me Collection:
+  #   template:
+  #     collection: 86066
+  #     name: Movies
+  #     tpdb_id: 22035
   Die Hard Collection:
     sort_title: Die Hard
     template:
       collection: 1570
       name: Movies
       tpdb_id: 719
-  Dirty Dancing Collection:
-    template:
-      collection: 86058
-      name: Movies
-      tpdb_id: 107314
+  # Dirty Dancing Collection:
+  #   template:
+  #     collection: 86058
+  #     name: Movies
+  #     tpdb_id: 107314
   Divergent Collection:
     template:
       collection: 283579
@@ -503,11 +503,11 @@ collections:
       collection: 12203
       name: Movies
       tpdb_id: 170408
-  Dumb and Dumber Collection:
-    template:
-      collection: 96665
-      name: Movies
-      tpdb_id: 12114
+  # Dumb and Dumber Collection:
+  #   template:
+  #     collection: 96665
+  #     name: Movies
+  #     tpdb_id: 12114
   Dune Collection:
     template:
       collection: 726871
@@ -539,11 +539,11 @@ collections:
       name: Movies
       tmdb_movie: 109428,713704
       tpdb_id: 7075
-  Fantasia Collection:
-    template:
-      collection: 55427
-      name: Movies
-      tpdb_id: 130368
+  # Fantasia Collection:
+  #   template:
+  #     collection: 55427
+  #     name: Movies
+  #     tpdb_id: 130368
   Fantastic Beasts Collection:
     template:
       collection: 435259
@@ -575,11 +575,11 @@ collections:
       collection: 43563
       name: Movies
       tpdb_id: 28461
-  From Dusk Till Dawn Collection: 
-    template:
-      collection: 10924
-      name: Movies
-      tpdb_id: 115625
+  # From Dusk Till Dawn Collection: 
+  #   template:
+  #     collection: 10924
+  #     name: Movies
+  #     tpdb_id: 115625
   Frosty the Snowman Collection:
     template:
       collection: 363015
@@ -686,11 +686,11 @@ collections:
       collection: 9888
       name: Movies
       tpdb_id: 110729
-  Homeward Bound Collection:
-    template:
-      collection: 43058
-      name: Movies
-      tpdb_id: 84621
+  # Homeward Bound Collection:
+  #   template:
+  #     collection: 43058
+  #     name: Movies
+  #     tpdb_id: 84621
   Honey, I Shrunk the Kids Collection:
     template:
       collection: 72119
@@ -769,16 +769,16 @@ collections:
       name: Movies
       tmdb_movie: 12208
       tpdb_id: 134668
-  Jaws Collection:
-    template:
-      collection: 2366
-      name: Movies
-      tpdb_id: 8288
-  Jay and Silent Bob Collection:
-    template:
-      collection: 726870
-      name: Movies
-      tpdb_id: 288581
+  # Jaws Collection:
+  #   template:
+  #     collection: 2366
+  #     name: Movies
+  #     tpdb_id: 8288
+  # Jay and Silent Bob Collection:
+  #   template:
+  #     collection: 726870
+  #     name: Movies
+  #     tpdb_id: 288581
   John Wick Collection:
     template:
       collection: 404609
@@ -819,11 +819,11 @@ collections:
       collection: 722971
       name: Movies
       tpdb_id: 292236
-  Knocked Up Collection:
-    template:
-      collection: 779062
-      name: Movies
-      tpdb_id: 235492
+  # Knocked Up Collection:
+  #   template:
+  #     collection: 779062
+  #     name: Movies
+  #     tpdb_id: 235492
   Kung Fu Panda Collection:
     template:
       collection: 77816
@@ -834,21 +834,21 @@ collections:
       collection: 97460
       name: Movies
       tpdb_id: 44948
-  Legally Blonde Collection:
-    template:
-      collection: 86024
-      name: Movies
-      tpdb_id: 14286
+  # Legally Blonde Collection:
+  #   template:
+  #     collection: 86024
+  #     name: Movies
+  #     tpdb_id: 14286
   Lethal Weapon Collection:
     template:
       collection: 945
       name: Movies
       tpdb_id: 128320
-  Lilo & Stitch Collection:
-    template:
-      collection: 97461
-      name: Movies
-      tpdb_id: 48065
+  # Lilo & Stitch Collection:
+  #   template:
+  #     collection: 97461
+  #     name: Movies
+  #     tpdb_id: 48065
   Living Dead Collection:
     template:
       collection: 261590
@@ -886,11 +886,11 @@ collections:
       collection: 209131
       name: Movies
       tpdb_id: 74681
-  Mariachi Collection:
-    template:
-      collection: 9649
-      name: Movies
-      tpdb_id: 214461
+  # Mariachi Collection:
+  #   template:
+  #     collection: 9649
+  #     name: Movies
+  #     tpdb_id: 214461
   Marry Poppins Collection:
     template:
       collection: 527439
@@ -948,22 +948,22 @@ collections:
       collection: 137696
       name: Movies
       tpdb_id: 29352
-  Moon Collection:
-    template:
-      collection: 995464
-      name: Movies
-      tpdb_id: 294881
+  # Moon Collection:
+  #   template:
+  #     collection: 995464
+  #     name: Movies
+  #     tpdb_id: 294881
   Monsterverse Collection:
     collection_mode: hide
     imdb_list: https://www.imdb.com/list/ls060980695/
     summary: The MonsterVerse is an American multimedia franchise and shared fictional universe that is centered on a series of monster films featuring Godzilla and King Kong.
     url_poster: https://theposterdb.com/api/assets/16640/view
-  Mulan Collection:
-    template:
-      collection: 87236
-      name: Movies
-      tmdb_movie: 337401
-      tpdb_id: 46221
+  # Mulan Collection:
+  #   template:
+  #     collection: 87236
+  #     name: Movies
+  #     tmdb_movie: 337401
+  #     tpdb_id: 46221
   My Big Fat Greek Wedding Collection:
     template:
       collection: 389767
@@ -1107,11 +1107,11 @@ collections:
       collection: 17255
       name: Movies
       tpdb_id: 141961
-  'Resident Evil: Biohazard Collection':
-    template:
-      collection: 133352
-      name: Movies
-      tpdb_id: 8419
+  # 'Resident Evil: Biohazard Collection':
+  #   template:
+  #     collection: 133352
+  #     name: Movies
+  #     tpdb_id: 8419
   Ride Along Collection:
     template:
       collection: 376650
@@ -1190,11 +1190,11 @@ collections:
       collection: 496796
       name: Movies
       tpdb_id: 139267
-  Silent Hill Collection:
-    template:
-      collection: 64748
-      name: Movies
-      tpdb_id: 11690
+  # Silent Hill Collection:
+  #   template:
+  #     collection: 64748
+  #     name: Movies
+  #     tpdb_id: 11690
   Sin City Collection:
     template:
       collection: 135179
@@ -1215,17 +1215,22 @@ collections:
       collection: 722961
       name: Movies
       tpdb_id: 163585
-  Speed Collection:
-    template:
-      collection: 43064
-      name: Movies
-      tpdb_id: 78076
+  # Speed Collection:
+  #   template:
+  #     collection: 43064
+  #     name: Movies
+  #     tpdb_id: 78076
   Spider-Man Collection:
     summary: A collection of all the mainstream Spider-Man movies.
     template:
       collection: 556,125574,531241,573436
       name: Movies
       tpdb_id: 4813
+  'Spider-Man: Spider-Verse Collection':
+    template:
+      collection: 573436
+      name: Movies
+      tpdb_id: 543087
   Spirit Collection:
     template:
       collection: 806483
@@ -1292,21 +1297,21 @@ collections:
     template:
       collection: 211721
       name: Movies
-  Ted Collection:
-    template:
-      collection: 266672
-      name: Movies
-      tpdb_id: 18286
-  Teenage Mutant Ninja Turtles:
-    template:
-      collection: 1582
-      name: Movies
-      tpdb_id: 4621
-  Teenage Mutant Ninja Turtles (Remake) Collection:
-    template:
-      collection: 401562
-      name: Movies
-      tpdb_id: 4629
+  # Ted Collection:
+  #   template:
+  #     collection: 266672
+  #     name: Movies
+  #     tpdb_id: 18286
+  # Teenage Mutant Ninja Turtles:
+  #   template:
+  #     collection: 1582
+  #     name: Movies
+  #     tpdb_id: 4621
+  # Teenage Mutant Ninja Turtles (Remake) Collection:
+  #   template:
+  #     collection: 401562
+  #     name: Movies
+  #     tpdb_id: 4629
   The 28 Collection:
     sort_title: 28 Collection
     template:
@@ -1325,12 +1330,12 @@ collections:
       collection: 86311
       name: Movies
       tpdb_id: 4816
-  The Blues Brothers Collection:
-    sort_title: Blues Brothers Collection
-    template:
-      collection: 112636
-      name: Movies
-      tpdb_id: 52402
+  # The Blues Brothers Collection:
+  #   sort_title: Blues Brothers Collection
+  #   template:
+  #     collection: 112636
+  #     name: Movies
+  #     tpdb_id: 52402
   The Boondock Saints Collection:
     sort_title: Boondock Saints Collection
     template:
@@ -1503,12 +1508,12 @@ collections:
       name: Movies
       tmdb_movie: 38575
       tpdb_id: 65189
-  The Land Before Time Collection:
-    sort_title: Land Before Time Collection
-    template:
-      collection: 19163
-      name: Movies
-      tpdb_id: 105457
+  # The Land Before Time Collection:
+  #   sort_title: Land Before Time Collection
+  #   template:
+  #     collection: 19163
+  #     name: Movies
+  #     tpdb_id: 105457
   The Lego Movie Collection:
     sort_title: Lego Movie Collection
     template:
@@ -1536,12 +1541,12 @@ collections:
       name: Movies
     url_poster: https://api.mediux.pro/assets/f29dfa50-86b3-4faf-a882-67a43dbd3e17
     url_background: https://api.mediux.pro/assets/78c32ab2-4b6c-4255-a6a0-87527f999538
-  The Man from Earth Collection:
-    sort_title: Man from Earth Collection
-    template:
-      collection: 464270
-      name: Movies
-      tpdb_id: 314239
+  # The Man from Earth Collection:
+  #   sort_title: Man from Earth Collection
+  #   template:
+  #     collection: 464270
+  #     name: Movies
+  #     tpdb_id: 314239
   The Man with the Iron Fists Collection:
     sort_title: Man with the Iron Fists Collection
     template:
@@ -1579,13 +1584,13 @@ collections:
       collection: 1733
       name: Movies
       tpdb_id: 1041
-  The Muppets Collection:
-    sort_title: Muppets Collection
-    template:
-      collection: 256377
-      name: Movies
-      tmdb_movie: 826914,13352,10208,10874,10437,13247,11176,11899,14900,20910
-      tpdb_id: 13696
+  # The Muppets Collection:
+  #   sort_title: Muppets Collection
+  #   template:
+  #     collection: 256377
+  #     name: Movies
+  #     tmdb_movie: 826914,13352,10208,10874,10437,13247,11176,11899,14900,20910
+  #     tpdb_id: 13696
   The NeverEnding Story Collection:
     sort_title: NeverEnding Story Collection
     template:
@@ -1622,12 +1627,12 @@ collections:
       collection: 115776
       name: Movies
       tpdb_id: 841
-  The Santa Clause Collection:
-    sort_title: Santa Clause Collection
-    template:
-      collection: 53159
-      name: Movies
-      tpdb_id: 25716
+  # The Santa Clause Collection:
+  #   sort_title: Santa Clause Collection
+  #   template:
+  #     collection: 53159
+  #     name: Movies
+  #     tpdb_id: 25716
   The Secret Life of Pets Collection:
     sort_title: Secret Life of Pets Collection
     template:
@@ -1682,12 +1687,12 @@ collections:
       collection: 33514
       name: Movies
       tpdb_id: 70115
-  The Vampire Chronicles Collection:
-    sort_title: Vampire Chronicles Collection
-    template:
-      collection: 217704
-      name: Movies
-      tpdb_id: 99737
+  # The Vampire Chronicles Collection:
+  #   sort_title: Vampire Chronicles Collection
+  #   template:
+  #     collection: 217704
+  #     name: Movies
+  #     tpdb_id: 99737
   The Wolverine Collection:
     sort_title: Wolverine Collection
     template:
@@ -1731,12 +1736,12 @@ collections:
       collection: 10194
       name: Movies
       tpdb_id: 28545
-  Train to Busan Collection:
-    template:
-      collection: 619537
-      name: Movies
-      tmdb_movie: 389868
-      tpdb_id: 82793
+  # Train to Busan Collection:
+  #   template:
+  #     collection: 619537
+  #     name: Movies
+  #     tmdb_movie: 389868
+  #     tpdb_id: 82793
   Trainspotting Collection:
     template:
       collection: 424202
@@ -1827,11 +1832,11 @@ collections:
       collection: 529892
       name: Movies
       tpdb_id: 194953
-  Aquaman Collection:
-    template:
-      collection: 573693
-      name: Movies
-      tpdb_id: 140746
+  # Aquaman Collection:
+  #   template:
+  #     collection: 573693
+  #     name: Movies
+  #     tpdb_id: 140746
   Marvel Cinematic Universe:
     summary: The Marvel Cinematic Universe (MCU) is an American media franchise and shared universe centered on a series of superhero films produced by Marvel Studios.
     template:

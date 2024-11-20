@@ -88,8 +88,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/44925/view
   337401:
     url_poster: https://theposterdb.com/api/assets/100146/view
-  36557:
-    url_poster: https://theposterdb.com/api/assets/134691/view
   38575:
     url_poster: https://theposterdb.com/api/assets/107168/view
   395:
@@ -397,7 +395,15 @@ metadata:
   Casino:
     url_poster: https://theposterdb.com/api/assets/33543/view
   Casino Royale:
+    match:
+      title: Casino Royale
+      year: 1967
     url_poster: https://theposterdb.com/api/assets/134673/view
+  Casino Royale 2006:
+    match:
+      title: Casino Royale
+      year: 2006
+    url_poster: https://theposterdb.com/api/assets/134691/view
   Castle in the Sky:
     url_poster: https://theposterdb.com/api/assets/24656/view
   Cinderella:
@@ -766,6 +772,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/9784/view
   Guardians of the Galaxy Vol. 2:
     url_poster: https://theposterdb.com/api/assets/9789/view
+  Guardians of the Galaxy Vol. 3:
+    url_poster: https://theposterdb.com/api/assets/383018/view
   Hannibal:
     url_poster: https://theposterdb.com/api/assets/57811/view
   Hannibal Rising:
@@ -1038,7 +1046,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/723/view
   Live and Let Die:
     url_poster: https://theposterdb.com/api/assets/134677/view
-  Logan:
+  263115:
     url_poster: https://theposterdb.com/api/assets/17217/view
   London Has Fallen:
     url_poster: https://theposterdb.com/api/assets/29974/view
@@ -1371,7 +1379,15 @@ metadata:
   Rise of the Planet of the Apes:
     url_poster: https://theposterdb.com/api/assets/339/view
   RoboCop:
+    match:
+      title: RoboCop
+      year: 1987
     url_poster: https://theposterdb.com/api/assets/7670/view
+  RoboCop 2014:
+    match:
+      title: RoboCop
+      year: 2014
+    url_poster: https://theposterdb.com/api/assets/7673/view
   RoboCop 2:
     url_poster: https://theposterdb.com/api/assets/7671/view
   RoboCop 3:
@@ -1501,7 +1517,9 @@ metadata:
   'Spider-Man: Homecoming':
     url_poster: https://theposterdb.com/api/assets/9790/view
   'Spider-Man: Into the Spider-Verse':
-    url_poster: https://theposterdb.com/api/assets/116713/view
+    url_poster: https://theposterdb.com/api/assets/543089/view
+  'Spider-Man: Across the Spider-Verse':
+    url_poster: https://theposterdb.com/api/assets/543088/view
   'Spider-Man: No Way Home':
     url_poster: https://theposterdb.com/api/assets/188475/view
   Spirit Untamed:
@@ -2098,9 +2116,9 @@ metadata:
   Vegas Vacation:
     url_poster: https://theposterdb.com/api/assets/217443/view
   Venom:
-    url_poster: https://theposterdb.com/api/assets/116712/view
+    url_poster: https://theposterdb.com/api/assets/283569/view
   'Venom: Let There Be Carnage':
-    url_poster: https://theposterdb.com/api/assets/192587/view
+    url_poster: https://theposterdb.com/api/assets/283570/view
   Wake Up, Ron Burgundy:
     url_poster: https://theposterdb.com/api/assets/14102/view
   Wall Street:
