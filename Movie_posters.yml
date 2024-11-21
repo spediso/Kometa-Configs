@@ -491,7 +491,7 @@ metadata:
       title: Dawn of the Dead
       year: 1978
     url_poster: https://theposterdb.com/api/assets/60373/view
-  924:
+  Dawn of the Dead 2004:
     match:
       title: Dawn of the Dead
       year: 2004
@@ -510,6 +510,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/148780/view
   Deadpool 2:
     url_poster: https://theposterdb.com/api/assets/148781/view
+  Deadpool & Wolverine:
+    url_poster: https://theposterdb.com/api/assets/503262/view
   Death on the Nile:
     url_poster: https://theposterdb.com/api/assets/212863/view
   Death Proof:
@@ -1046,7 +1048,10 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/723/view
   Live and Let Die:
     url_poster: https://theposterdb.com/api/assets/134677/view
-  263115:
+  Logan:
+    match:
+      title: Logan
+      year: 2017
     url_poster: https://theposterdb.com/api/assets/17217/view
   London Has Fallen:
     url_poster: https://theposterdb.com/api/assets/29974/view
@@ -1057,11 +1062,15 @@ metadata:
   Machete Kills:
     url_poster: https://theposterdb.com/api/assets/42913/view
   Mad Max:
-    url_poster: https://theposterdb.com/api/assets/8318/view
+    url_poster: https://theposterdb.com/api/assets/494908/view
+  The Road Warrior:
+    url_poster: https://theposterdb.com/api/assets/494906/view
   Mad Max Beyond Thunderdome:
-    url_poster: https://theposterdb.com/api/assets/8320/view
+    url_poster: https://theposterdb.com/api/assets/494905/view
   'Mad Max: Fury Road':
-    url_poster: https://theposterdb.com/api/assets/8321/view
+    url_poster: https://theposterdb.com/api/assets/494904/view
+  'Furiosa: A Mad Max Saga':
+    url_poster: https://theposterdb.com/api/assets/494903/view
   Madagascar:
     url_poster: https://theposterdb.com/api/assets/27747/view
   'Madagascar 3: Europe''s Most Wanted':
@@ -1951,8 +1960,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/33340/view
   The Rescuers Down Under:
     url_poster: https://theposterdb.com/api/assets/33346/view
-  The Road Warrior:
-    url_poster: https://theposterdb.com/api/assets/8319/view
   The Santa Clause:
     url_poster: https://theposterdb.com/api/assets/25717/view
   The Santa Clause 2:

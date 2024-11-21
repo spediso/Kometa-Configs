@@ -868,7 +868,7 @@ collections:
     template:
       collection: 8945
       name: Movies
-      tpdb_id: 8317
+      tpdb_id: 67321
   Madagascar Collection:
     template:
       collection: 14740
@@ -1487,13 +1487,13 @@ collections:
       collection: 468222
       name: Movies
       tpdb_id: 28676
-  The Jack Ryan Collection:
-    sort_title: Jack Ryan Collection
-    template:
-      collection: 192492
-      name: Movies
-      tmdb_movie: 4614,137094
-      tpdb_id: 150531
+  # The Jack Ryan Collection:
+  #   sort_title: Jack Ryan Collection
+  #   template:
+  #     collection: 192492
+  #     name: Movies
+  #     tmdb_movie: 4614,137094
+  #     tpdb_id: 150531
   The Jungle Book Collection:
     sort_title: Jungle Book Collection
     template:
