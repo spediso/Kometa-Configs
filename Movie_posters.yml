@@ -96,8 +96,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/44902/view
   420818:
     url_poster: https://theposterdb.com/api/assets/46458/view
-  438631:
-    url_poster: https://theposterdb.com/api/assets/182911/view
   440:
     url_poster: https://theposterdb.com/api/assets/1219/view
   442062:
@@ -118,8 +116,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/188293/view
   65754:
     url_poster: https://theposterdb.com/api/assets/58909/view
-  8078:
-    url_poster: https://theposterdb.com/api/assets/1217/view
   97020:
     url_poster: https://theposterdb.com/api/assets/7673/view
   9738:
@@ -179,15 +175,17 @@ metadata:
   Alice Through the Looking Glass:
     url_poster: https://theposterdb.com/api/assets/44912/view
   Alien:
-    url_poster: https://theposterdb.com/api/assets/1214/view
+    url_poster: https://api.mediux.pro/assets/77d5d4fd-b051-4968-a438-a621cc65c7e7
   'Alien: Covenant':
-    url_poster: https://theposterdb.com/api/assets/1221/view
+    url_poster: https://api.mediux.pro/assets/fe87ab06-509a-4a6e-b56b-96bf59e0b1bf
   Aliens:
-    url_poster: https://theposterdb.com/api/assets/1215/view
+    url_poster: https://api.mediux.pro/assets/092874b5-68ac-43a2-9dbc-b23c6579d27b
   Alien³:
-    url_poster: https://theposterdb.com/api/assets/1216/view
+    url_poster: https://api.mediux.pro/assets/e070a197-5c9e-4787-9a31-679e123b2c05
+  Alien Resurrection:
+    url_poster: https://api.mediux.pro/assets/7225965a-f130-48cb-81bc-14f4587d3dab 
   'Alien: Romulus':
-    url_poster: https://theposterdb.com/api/assets/511341/view
+    url_poster: https://api.mediux.pro/assets/7917de7c-3da6-4c75-a10e-a712e285ac23
   'Memory: The Origins of Alien':
     url_poster: https://theposterdb.com/api/assets/18605/view
   All Dogs Go to Heaven:
@@ -618,8 +616,18 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/12116/view
   Dumbo:
     url_poster: https://theposterdb.com/api/assets/44924/view
-  Dune:
+  Dune (1984):
+    match:
+      title: Dune
+      year: 1984
     url_poster: https://theposterdb.com/api/assets/74141/view
+  Dune (2021):
+    match:
+      title: Dune
+      year: 2021
+    url_poster: https://api.mediux.pro/assets/37712863-67e0-43c3-ab2e-e2a5c5bc1354
+  'Dune: Part Two':
+    url_poster: https://api.mediux.pro/assets/ef406ae4-6494-4c65-90be-1ceae67924c0
   El Mariachi:
     url_poster: https://theposterdb.com/api/assets/214462/view
   Enchanted:
@@ -1320,7 +1328,7 @@ metadata:
   'Project A: Part II':
     url_poster: https://theposterdb.com/api/assets/193827/view
   Prometheus:
-    url_poster: https://theposterdb.com/api/assets/1220/view
+    url_poster: https://api.mediux.pro/assets/3698485a-23da-4989-9db9-38d684ed7e83
   Puss in Boots:
     url_poster: https://theposterdb.com/api/assets/43130/view
   'Puss in Boots: The Last Wish':

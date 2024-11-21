@@ -174,8 +174,8 @@ collections:
     template:
       collection: 8091
       name: Movies
-      tmdb_movie: 70981,126889
-      tpdb_id: 1213
+      tmdb_movie: 70981,126889,945961
+    url_poster: https://api.mediux.pro/assets/ed8f77d3-abbe-4b06-ac58-65c4ad43e060
   All Dogs Go to Heaven Collection:
     template:
       collection: 140910
@@ -512,7 +512,7 @@ collections:
     template:
       collection: 726871
       name: Movies
-      tpdb_id: 197348
+    url_poster: https://api.mediux.pro/assets/1deb4d79-ef35-46af-b497-c599d86c88b8
   Eastrail 177 Collection:
     collection_mode: hide
     imdb_list: https://www.imdb.com/list/ls024083258/
