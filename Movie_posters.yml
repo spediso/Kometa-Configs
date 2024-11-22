@@ -80,8 +80,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/22182/view
   '300: Rise of an Empire':
     url_poster: https://theposterdb.com/api/assets/5577/view
-  315837:
-    url_poster: https://theposterdb.com/api/assets/175412/view
   321612:
     url_poster: https://theposterdb.com/api/assets/44917/view
   329996:
@@ -616,18 +614,15 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/12116/view
   Dumbo:
     url_poster: https://theposterdb.com/api/assets/44924/view
-  Dune (1984):
+  Dune:
     match:
       title: Dune
       year: 1984
     url_poster: https://theposterdb.com/api/assets/74141/view
-  Dune (2021):
-    match:
-      title: Dune
-      year: 2021
-    url_poster: https://api.mediux.pro/assets/37712863-67e0-43c3-ab2e-e2a5c5bc1354
+  'Dune: Part One':
+    url_poster: https://theposterdb.com/api/assets/356989/view
   'Dune: Part Two':
-    url_poster: https://api.mediux.pro/assets/ef406ae4-6494-4c65-90be-1ceae67924c0
+    url_poster: https://theposterdb.com/api/assets/356990/view
   El Mariachi:
     url_poster: https://theposterdb.com/api/assets/214462/view
   Enchanted:
@@ -731,7 +726,15 @@ metadata:
   Ghost Punting:
     url_poster: https://theposterdb.com/api/assets/96601/view
   Ghost in the Shell:
+    match:
+      title: Ghost in the Shell
+      year: 1995
     url_poster: https://theposterdb.com/api/assets/175260/view
+  Ghost in the Shell (2017):
+    match:
+      title: Ghost in the Shell
+      year: 2017
+    url_poster: https://theposterdb.com/api/assets/175412/view
   Ghost in the Shell 2.0:
     url_poster: https://theposterdb.com/api/assets/175262/view
   'Ghost in the Shell 2: Innocence':
