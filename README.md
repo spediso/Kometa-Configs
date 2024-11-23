@@ -1,6 +1,6 @@
-# Plex Meta Manager
+# Kometa
 
-This repository contains configuration files for [Plex Meta Manager](https://github.com/meisnate12/Plex-Meta-Manager), a tool for managing metadata in Plex libraries.
+This repository contains configuration files for [Kometa](https://github.com/Kometa-Team/Kometa), a tool for managing metadata in Plex libraries.
 
 ## HUGE THANKS TO [notryanfraser](https://github.com/notryanfraser). 
 
