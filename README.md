@@ -14,7 +14,7 @@ To use these configuration files, make sure to update the `plex` and `tmdb` sect
 
 ## Usage
 
-Read the [Plex Meta Manager][https://github.com/meisnate12/Plex-Meta-Manager](https://kometa.wiki/en/latest/) docs.
+Read the [Kometa](https://kometa.wiki/en/latest/) docs.
 
 Good luck.
 
