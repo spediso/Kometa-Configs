@@ -600,22 +600,22 @@ collections:
       collection: 86115
       name: Movies
       tpdb_id: 85594
-  Ghost in the Shell (Animated) Collection:
-    template:
-      collection: 23026
-      name: Movies
-      tmdb_movie: 14092
-      tpdb_id: 175259
-  Ghost in the Shell Arise Collection:
-    template:
-      collection: 196753
-      name: Movies
-      tpdb_id: 175263
-  Ghost in the Shell SAC Collection:
-    template:
-      collection: 443996
-      name: Movies
-      tpdb_id: 175270
+  # Ghost in the Shell (Animated) Collection:
+  #   template:
+  #     collection: 23026
+  #     name: Movies
+  #     tmdb_movie: 14092
+  #     tpdb_id: 175259
+  # Ghost in the Shell Arise Collection:
+  #   template:
+  #     collection: 196753
+  #     name: Movies
+  #     tpdb_id: 175263
+  # Ghost in the Shell SAC Collection:
+  #   template:
+  #     collection: 443996
+  #     name: Movies
+  #     tpdb_id: 175270
   Ghostbusters Collection:
     template:
       collection: 2980
