@@ -148,6 +148,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/160106/view
   A Quiet Place Part II:
     url_poster: https://theposterdb.com/api/assets/160107/view
+  'A Quiet Place: Day One':
+    url_poster: https://theposterdb.com/api/assets/538519/view
   A Very Harold & Kumar Christmas:
     url_poster: https://theposterdb.com/api/assets/33855/view
   A View to a Kill:
@@ -766,6 +768,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/203165/view
   'Ghostbusters: Afterlife':
     url_poster: https://theposterdb.com/api/assets/203167/view
+  'Ghostbusters: Frozen Empire':
+    url_poster: https://theposterdb.com/api/assets/475587/view
   Glass:
     url_poster: https://theposterdb.com/api/assets/17580/view
   Glass Onion:
@@ -1509,6 +1513,10 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/202718/view
   Skyfall:
     url_poster: https://theposterdb.com/api/assets/134693/view
+  Smile:
+    url_poster: https://theposterdb.com/api/assets/541987/view
+  Smile 2:
+    url_poster: https://theposterdb.com/api/assets/541986/view
   Snoopy Come Home:
     url_poster: https://theposterdb.com/api/assets/20865/view
   Snow White and the Huntsman:
