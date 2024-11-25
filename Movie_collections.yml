@@ -550,7 +550,7 @@ collections:
     template:
       collection: 435259
       name: Movies
-      tpdb_id: 169
+    url_poster: https://theposterdb.com/api/assets/282607/view
   Fantastic Four Collection:
     template:
       collection: 9744
@@ -657,7 +657,7 @@ collections:
     template:
       collection: 1241
       name: Movies
-      tpdb_id: 27577
+    url_poster: https://theposterdb.com/api/assets/282608/view
   Has Fallen Collection:
     template:
       collection: 386534
@@ -1797,7 +1797,7 @@ collections:
     template:
       collection: 1241,435259
       name: Movies
-      tpdb_id: 1634
+    url_poster: https://theposterdb.com/api/assets/282606/view
   Wonder Woman Collection:
     template:
       collection: 468552
