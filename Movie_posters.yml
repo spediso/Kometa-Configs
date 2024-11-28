@@ -489,6 +489,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/14100/view
   Daddy's Home 2:
     url_poster: https://theposterdb.com/api/assets/14101/view
+  Dante's Peak:
+    url_poster: https://theposterdb.com/api/assets/21571/view
   Dawn of the Dead:
     match:
       title: Dawn of the Dead
